@@ -1,10 +1,10 @@
-f5b4a2d47d41fc0e123406ce98116d2b *DESCRIPTION
+02c7394c99496ac96523c995b2020c92 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-4ebde1e340f937cde3c1bdd369355767 *NEWS.md
+2812b3471d4c57c49b193aa41be10d5a *NEWS.md
 95ee6d686496caaf74c1b38518c03672 *R/guaguas.R
 84df49b1bcf74aca47a8adafef45411b *R/guaguas_frecuentes.R
-622ffeed49ced5d3a18a475e81b442aa *R/sysdata.rda
-39e6f4f31c7aea378d846c37f18e4308 *README.md
+f8cb1da6d3b85bf1d343810f5275a866 *R/sysdata.rda
+e27f51d9784e0a8874d0b317f8be153e *README.md
 e8e45e49531a3ca16b42239a349a67e4 *data/guaguas.R
 f0cc7f8255a7e1ebd09d213d53705cf9 *man/figures/bsb.png
 0953c43b5a7c2d1837c5518ce919fc2b *man/figures/guaguas-hex.png
@@ -14,4 +14,4 @@ f536618723c5fd6f92fa5188efa953fa *man/figures/salvador-augusto.png
 35cf2db6444b0b086bf495662a5fe2b4 *man/guaguas.Rd
 2aa55a2d5cbe3ae473143dbb6e18b4c3 *man/guaguas_frecuentes.Rd
 4fbbec7310072ef92e59845b718d893e *tests/testthat.R
-9d65ec49e2640502afe17c15eaa9a2b7 *tests/testthat/test-data.R
+a308f7e2f1ce79c58e667f21b93cee8c *tests/testthat/test-data.R
